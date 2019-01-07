@@ -7,3 +7,4 @@ To view the code from a specific video, go the `src` folder and then the folder 
 1. [Comments and Printing](https://youtu.be/nuKenlqMoMs)
 2. [Variables: Var vs Val](https://youtu.be/HIvBDLaZTfc)
 3. [Basic Data Types](https://youtu.be/-gNW0dNdC7A)
+4. [User Input](https://youtu.be/3Yu6zl_0e8g)
