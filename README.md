@@ -9,3 +9,4 @@ To view the code from a specific video, go the `src` folder and then the folder 
 3. [Basic Data Types](https://youtu.be/-gNW0dNdC7A)
 4. [User Input](https://youtu.be/3Yu6zl_0e8g)
 5. [Arithmetic Operations](https://youtu.be/0yD4EM8q9Lk)
+6. [Boolean Operations](https://youtu.be/irgKgJ1aY6w)
