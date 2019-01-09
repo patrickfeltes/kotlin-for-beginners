@@ -9,3 +9,4 @@ This is a repository for all of the commented code from my [youtube series on le
 5. [Arithmetic Operations](https://youtu.be/0yD4EM8q9Lk)
 6. [Boolean Operations](https://youtu.be/irgKgJ1aY6w)
 7. [If Else Expressions]()
+8. [When Expression]()
