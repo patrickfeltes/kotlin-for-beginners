@@ -1,5 +1,3 @@
-package tutorial5
-
 fun main(args: Array<String>) {
     var x: Int = 4
     var y: Int = 3

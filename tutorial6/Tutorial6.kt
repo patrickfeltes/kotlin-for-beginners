@@ -1,5 +1,3 @@
-package tutorial6
-
 fun main(args: Array<String>) {
     val x: Boolean = true
 

@@ -1,5 +1,3 @@
-package tutorial3
-
 val byte: Byte = 1 // a byte stores positive and negative numbers in 8 bits
 val short: Short = 15 // same as above, but 16 bits
 val x: Int = 4 // same as above, but 32 bits

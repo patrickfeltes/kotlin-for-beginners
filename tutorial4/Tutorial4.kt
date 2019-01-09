@@ -1,5 +1,3 @@
-package tutorial4
-
 import java.util.*
 
 fun main(args: Array<String>) {

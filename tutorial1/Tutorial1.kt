@@ -1,5 +1,3 @@
-package tutorial1
-
 // this is a comment
 
 /**
