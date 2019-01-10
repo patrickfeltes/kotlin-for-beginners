@@ -8,5 +8,5 @@ This is a repository for all of the commented code from my [youtube series on le
 4. [User Input](https://youtu.be/3Yu6zl_0e8g)
 5. [Arithmetic Operations](https://youtu.be/0yD4EM8q9Lk)
 6. [Boolean Operations](https://youtu.be/irgKgJ1aY6w)
-7. [If Else Expressions]()
-8. [When Expression]()
+7. [If Else Expressions](https://youtu.be/eLzzZyNiPJM)
+8. [When Expression](https://youtu.be/l3Vbi0ixxUs)
