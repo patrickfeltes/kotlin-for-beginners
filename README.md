@@ -10,3 +10,4 @@ This is a repository for all of the commented code from my [youtube series on le
 6. [Boolean Operations](https://youtu.be/irgKgJ1aY6w)
 7. [If Else Expressions](https://youtu.be/eLzzZyNiPJM)
 8. [When Expression](https://youtu.be/l3Vbi0ixxUs)
+9. [For Loops](https://youtu.be/v2rVUe1c_sI)
