@@ -11,3 +11,4 @@ This is a repository for all of the commented code from my [youtube series on le
 7. [If Else Expressions](https://youtu.be/eLzzZyNiPJM)
 8. [When Expression](https://youtu.be/l3Vbi0ixxUs)
 9. [For Loops](https://youtu.be/v2rVUe1c_sI)
+10. [While Loops](https://youtu.be/FaPVFVl6lTY)
