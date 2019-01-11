@@ -1,4 +1,4 @@
-# Kotlin for Beginners
+# Kotlin Tutorials for Beginners
 This is a repository for all of the commented code from my [youtube series on learning Kotlin](https://www.youtube.com/playlist?list=PLJSII25WrAz6cfh0n-06ikSmaEoicLfCZ).
 
 0. [Setup](https://youtu.be/MTA0bYuwH-w)
@@ -12,3 +12,4 @@ This is a repository for all of the commented code from my [youtube series on le
 8. [When Expression](https://youtu.be/l3Vbi0ixxUs)
 9. [For Loops](https://youtu.be/v2rVUe1c_sI)
 10. [While Loops](https://youtu.be/FaPVFVl6lTY)
+11. [Guessing Game](https://youtu.be/WvRUQnvu1RM)
